@@ -1,4 +1,4 @@
-# Pokedex - Taqtile Challenge
+# Pokedex
 
 **Important** Save your project following this pattern: "Your Name - Taqtile Case"
 
