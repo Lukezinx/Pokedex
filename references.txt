@@ -1,0 +1,48 @@
+Configurando VsCode - https://www.youtube.com/watch?v=5knMd3DJlXM
+
+Download nodejs - https://nodejs.org/pt
+
+Download Android Studio - https://developer.android.com/studio?hl=pt-br
+
+Aprendendo o Basico de JS - https://www.youtube.com/watch?v=SpLTLZmrcjo&list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw&index=6
+
+Utilizando o Js (Uma IDE online) -  https://codesandbox.io/p/sandbox/estudos-de-js-9kjxxk obs: pode ser que nao tenhas os codigos
+
+Documentação Js - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+
+Aprendendo React native - https://www.youtube.com/watch?v=JusFvRHWDyU&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=5
+
+Documentação React Native - https://reactnative.dev/docs/intro-react
+
+uso de FlatList - https://www.youtube.com/watch?v=I3zD1ZVImrg
+
+navegation - https://www.youtube.com/watch?v=gH9Vvq6WbnA
+
+docs de navegation - https://reactnavigation.org/docs/getting-started
+
+starckOverFlow - https://stackoverflow.com/questions
+
+stackoverflow em Pt - https://pt.stackoverflow.com
+
+useEffect - https://react.dev/reference/react/useEffect
+
+useState - https://react.dev/reference/react/useState
+
+Consumir API no react - https://www.youtube.com/watch?v=k8hz8WIxhAA
+
+
+-----------
+imports de coisa basica - https://www.google.com/search?q=como+fazer+import+de+useState+e+useEffect+react+native&client=opera-gx&hs=3oX&sca_esv=cd63d47fa156149d&sxsrf=AE3TifPCRt-T9pJIrczaoyGVeBp9eLNStw%3A1752616785077&ei=Uc92aN_HBJvX5OUP9MSUgQk&ved=0ahUKEwiftJun7r-OAxWbK7kGHXQiJZAQ4dUDCBA&uact=5&oq=como+fazer+import+de+useState+e+useEffect+react+native&gs_lp=Egxnd3Mtd2l6LXNlcnAiNmNvbW8gZmF6ZXIgaW1wb3J0IGRlIHVzZVN0YXRlIGUgdXNlRWZmZWN0IHJlYWN0IG5hdGl2ZTIFECEYoAFIsgxQnQRY9QpwAHgCkAEBmAGGAqABngmqAQUwLjYuMbgBA8gBAPgBAZgCB6ACtAfCAgQQABhHmAMA4gMFEgExIECIBgGQBgiSBwMxLjagB_4QsgcDMC42uAerB8IHBTAuNS4yyAcQ&sclient=gws-wiz-serp
+-----------
+
+share - https://www.youtube.com/watch?v=r-7o-Kz-QCQ
+
+Style-components - https://www.youtube.com/watch?v=id9Sh0lsjJg , https://www.youtube.com/watch?v=cUSK3im2kfk
+
+docs style-components - https://styled-components.com/docs
+
+Tradutor - https://www.deepl.com/pt-BR/translator
+
+Cores - https://www.ranoya.com/books/public/css/corescss.php
+
